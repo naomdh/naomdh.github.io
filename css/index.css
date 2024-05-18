@@ -1,15 +1,26 @@
+.container {
+    margin: 5px;
+    padding: 5px;
+    width: 100%;
+    text-align: center;
+}
+
 body {
 	font-family: 'Monserrat', sans-serif;
     background-color: #fefbf8;
     border-color: #e7e7e7;
+    
 }
 
 h1{
 	color:purple;
 }
 
+h2{
+	color:blue;
+}
 p{
-    color:blue;
+    color:black;
 }
 footer {
 	margin: 20px;
