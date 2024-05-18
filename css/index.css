@@ -1,0 +1,24 @@
+body {
+	font-family: 'Monserrat', sans-serif;
+    background-color: #fefbf8;
+    border-color: #e7e7e7;
+}
+
+h1{
+	color:purple;
+}
+
+p{
+    color:blue;
+}
+footer {
+	margin: 20px;
+}
+
+img{
+	width: 100%;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    padding: 10px;
+}
