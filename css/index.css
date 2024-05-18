@@ -3,7 +3,6 @@
     padding: 0px;
     width: 100%;
     text-align: center;
-    
 }
 
 body {
@@ -33,9 +32,7 @@ footer {
 }
 
 img{
-	width: 100%;
-    display: block;
-    max-width: 100%;
-    height: auto;
-    padding: 10px;
+    max-height: 80vh;
+    max-width: 80vw;
+    padding: 5px;
 }
