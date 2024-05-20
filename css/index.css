@@ -23,7 +23,10 @@ h2{
 	color:blue;
     font-size: 20px;
 }
-
+h3{
+    color: rgb(24, 170, 255);
+    font-size: 15px;
+}
 p{
     color:black;
 }
